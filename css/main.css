@@ -13,7 +13,7 @@ html {
 }
 
 img {
-  width: 100%
+  width: 100%;
   display: inline-block;
 }
 
@@ -64,7 +64,7 @@ img {
 @media only screen and (min-width: 60em) {
 
   img {
-    width: 24.6%;
+    width: 24%;
   }
 
   img:first-child {
